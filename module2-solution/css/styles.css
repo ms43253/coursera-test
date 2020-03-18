@@ -28,7 +28,6 @@ p {
   font-family: Helvetica;
   color: white;
   word-wrap: break-word;
-  
 }
 
 p#title1 {
@@ -42,6 +41,7 @@ p#title1 {
   color: #000000; 
   font-weight: bold;
   padding: 5px;
+  overflow: hidden;
 }
 
 p#title2 {
